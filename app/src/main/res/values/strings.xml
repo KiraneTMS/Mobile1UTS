@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mobile1_Arsya_UTS</string>
+
+    <string-array name="foods">
+        <item>Honey Garlic</item>
+        <item>Beef Burger</item>
+        <item>Regular Fries</item>
+    </string-array>
+
+    <string-array name="drinks">
+        <item>Ice Cream Cone</item>
+        <item>Flurry Oreo</item>
+        <item>Fanta Float</item>
+    </string-array>
+
+    <string-array name="foods_price">
+        <item>20000</item>
+        <item>30000</item>
+        <item>15000</item>
+    </string-array>
+
+    <string-array name="drinks_price">
+        <item>10000</item>
+        <item>15000</item>
+        <item>12000</item>
+    </string-array>
+</resources>
